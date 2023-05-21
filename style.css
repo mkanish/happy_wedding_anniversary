@@ -1,0 +1,17 @@
+.body_backgorund 
+{
+    background-image:url(anniversary-43-2.gif);
+    background-position:center;
+    background-size: 600px;
+}
+#myCanvas
+{
+   border-width:10px;
+   background-color:white;
+   border-style:ridge;
+border-color:darkviolet;
+}
+body{
+    
+    background-size: cover;
+}
